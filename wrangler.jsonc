@@ -1,5 +1,7 @@
 {
-  "name": "my-project",
+  "name": "stq",
   "compatibility_date": "2026-01-11",
-  "main": "index.tsx"
+  "assets": {
+    "directory": "./dist"
+  }
 }
